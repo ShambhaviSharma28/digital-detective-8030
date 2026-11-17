@@ -37,4 +37,5 @@ I replaced the long dashes with normal hyphens, and I switched to VS Code for ed
 - evidence/.gitkeep 
 
 ## 8. Commit details
-WRITE after you commit: your commit message, and that it was pushed to GitHub.
+- Commit message: "Set up Digital Detective mission structure"
+- The commit was pushed to my public GitHub repository, digital-detective-8030, and I confirmed on GitHub that the folders and files are visible.
