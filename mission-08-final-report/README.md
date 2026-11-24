@@ -84,6 +84,7 @@ The repository contains the following important files and folders:
 
 ## 8. Commit details
 
-- Planned commit message: `Complete final report and verify assignment submission`
-- The final report will be staged, committed and pushed to the GitHub repository.
-- The repository will be checked on GitHub to confirm that the final report and all required files are visible.
+- Commit message: Complete final report and verify assignment submission.
+- The final report was staged, committed and pushed successfully to the GitHub repository.
+- Verified that the Mission 8 README is visible on the main branch.
+- Git status confirmed that the working tree is clean and up to date with origin/main.
