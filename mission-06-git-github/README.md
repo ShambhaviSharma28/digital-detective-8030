@@ -51,3 +51,9 @@ Not applicable.
 
 - Commit message: Complete Git and GitHub collaboration mission.
 - The completed Mission 6 work was committed and pushed to GitHub. The updated files were verified in the repository.
+
+## My Learning
+
+- Learned how Git tracks changes using commits.
+- Understood the difference between staging and committing.
+- Learned how branches allow developers to work independently.
